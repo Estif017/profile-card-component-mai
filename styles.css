@@ -33,6 +33,8 @@ body {
 	display: flex;
 	flex-direction: column;
 	align-items: center;
+	border-radius: 15px;
+	overflow: hidden;
 }
 
 .bg {
